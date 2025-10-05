@@ -6,6 +6,7 @@ int main()
 	printf("Enter no. of Elements ");
 	scanf("%d",&n);
 	int *ptr;
+//trial only trial.hehe
 	ptr=(int*)malloc(n*sizeof(int));
 	printf("Enter Elements \n");
 	for(int i=0; i<n; ++i) {
