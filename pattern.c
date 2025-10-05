@@ -14,6 +14,7 @@ int main()
         }
         printf("\n");
     }
+//just a trial for hacktoberfest, hehe
     
     for(l=n-1;l>=1;l--){
         for(m=1;m<=n-l;m++){
